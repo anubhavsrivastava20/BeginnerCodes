@@ -1,7 +1,7 @@
 import java.util.*;
 //Array List Question
 
-public class Questions {
+public class arrayList {
     public static void  main(String[] args) {
 
         Scanner in = new Scanner(System.in);
